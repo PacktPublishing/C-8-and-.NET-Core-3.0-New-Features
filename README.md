@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # C# 8 and .NET Core 3.0 New Features [Video]
 This is the code repository for [C# 8 and .NET Core 3.0 New Features [Video]](https://www.packtpub.com/application-development/c-8-and-net-core-30-new-features-video?utm_source=github&utm_medium=repository&utm_campaign=9781789806663), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
